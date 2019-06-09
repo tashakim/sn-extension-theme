@@ -1,2 +1,1 @@
-# snextension
-terminal style theme
+# Solarized Dark Theme
