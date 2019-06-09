@@ -1,1 +1,1 @@
-# Solarized Dark Theme
+# Terminal style Theme
